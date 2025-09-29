@@ -1,0 +1,4 @@
+Num_variables,Variables_names,Left_bound,Right_bound,Simulation_method,Num_simulation_samples,Num_GSA_samples,Second_order_Saltelli,Seed_halton,Criterion_latin
+3,rotor_core_stiffness,1.00E+08,3.00E+08,saltelli,100,500,no,2,none
+,bearing_stiffness,4.00E+08,8.00E+08,,,,,,
+,foundation_stiffness,5.00E+08,1.50E+09,,,,,,

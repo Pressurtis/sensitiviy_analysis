@@ -1,0 +1,11 @@
+#num = number of variables
+#method = method for generating simulation samples
+num=3
+variablenames = ['a','b','c']
+bounds = [[1,2],[1,2],[1,2]]
+method = 'saltelli'
+num_samples_simulation = 100
+num_samples_saltelli = 500 
+
+
+
